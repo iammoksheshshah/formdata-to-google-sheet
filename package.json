@@ -1,0 +1,14 @@
+{
+  "name": "formdata-to-google-sheet",
+  "version": "1.0.0",
+  "description": "- First, go to [Google Sheets](https://docs.google.com/spreadsheets) and `Start a new spreadsheet` with the `Blank` template.\r - Rename it `Email Subscribers`. Or whatever, it doesn't matter.\r - Put the following headers into the first row:",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.3"
+  }
+}
